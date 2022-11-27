@@ -21,3 +21,7 @@ npm i jsonwebtoken
 
 HERE YOU SEE
 
+![1](https://user-images.githubusercontent.com/101393695/204158522-eecdfd09-4eeb-4a68-9789-8eefccb11f38.png)
+<br>
+<br>
+![2](https://user-images.githubusercontent.com/101393695/204158525-4b8b5108-cf96-41b5-95e1-851ae2e5007d.png)
